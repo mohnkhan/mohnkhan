@@ -55,6 +55,7 @@
 | Project | Description |
 | --- | --- |
 | [**DiP-DataIngestionPlatform**](https://github.com/mohnkhan/DiP-DataIngestionPlatform) | Real-time big data ingestion, analytics & visualization platform — scalable to thousands of nodes (Kafka, Storm, HBase, Hive, Phoenix, Zeppelin) · [demo video](https://www.youtube.com/watch?v=-QRR6qiFL_U) |
+| [**Data-Ingestion-Platform**](https://github.com/mohnkhan/Data-Ingestion-Platform) | Multi-engine real-time ingestion & visualization — switch between Apache Apex, Flink, Spark & Storm from a single UI |
 | [**xavl2tp**](https://github.com/mohnkhan/xavl2tp) | Layer 2 Tunnelling Protocol daemon (L2TP/IPsec, RFC 2661) with added IPv6 support — co-authored, written in C |
 
 #### 🤖 AI / GenAI
