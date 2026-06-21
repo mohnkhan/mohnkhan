@@ -47,6 +47,7 @@
 | Project | Description |
 | --- | --- |
 | [**MyOS2026**](https://github.com/mohnkhan/MyOS2026) | VM-first experimental operating system written in Rust |
+| [**MyOS-Simple**](https://github.com/mohnkhan/MyOS-Simple) | Bare-metal x86 OS built in five stages — from a 512-byte boot sector to a 32-bit protected-mode C kernel with shell, RTC clock & cooperative scheduler · NASM + C · freestanding, no stdlib |
 | [**MyRTOS-2**](https://sourceforge.net/projects/myrtos-2/) | Real-time multitasking executive (RTOS) — multiple compile-time-selectable schedulers, timers, memory management, semaphores/mutexes & watchdog · multi-platform · written in C · 2010–2013 |
 | [**cargonaut**](https://github.com/mohnkhan/cargonaut) | Rust-native, keyboard-first dual-pane terminal file manager — Midnight Commander reimagined for 2026 |
 | [**Edit**](https://github.com/mohnkhan/Edit) | Cross-platform terminal text editor in Rust — classic MS-DOS EDIT reimagined with Unicode, syntax highlighting & a sandboxed plugin API (Linux/BSD/Solaris/macOS) |
